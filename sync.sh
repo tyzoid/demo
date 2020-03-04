@@ -16,5 +16,3 @@ while true; do
 	# Wait 60 seconds
 	sleep 60;
 done
-
-#cool, but how would this work with a 4-way cloner? And can I set the frequency higher? Like every 3 seconds? :P or why not make it use a python script that exits when it recieves any data
